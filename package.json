@@ -1,0 +1,17 @@
+{
+  "name": "electricity-consumption-api",
+  "version": "1.0.0",
+  "description": "API for calculating theoretical electricity consumption based on appliance consumption",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
